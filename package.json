@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "anamika",
+  "type":"module",
   "license": "ISC",
   "devDependencies": {
     "express": "^4.18.1"
